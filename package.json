@@ -7,9 +7,9 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+   "dependencies": {
+    "next": "^14.0.0",        // Ensure a specific version is set
+    "react": "^18.0.0",       // Ensure a specific version is set
+    "react-dom": "^18.0.0"    // Ensure a specific version is set
   }
 }
